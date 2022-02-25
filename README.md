@@ -5,5 +5,5 @@ See a quick preview of the program on my YouTube channel: https://www.youtube.co
 
 Simply compile and run. This program requires no inputs.
 
-To get the game running, I followed this Youtube tutorial:
+To get the basics of the game snake, I followed this Youtube tutorial:
 https://www.youtube.com/watch?v=bI6e6qjJ8JQ
